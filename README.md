@@ -76,7 +76,6 @@ Before you begin, ensure you have met the following requirements:
 
 - `bot.js`: Main bot entry point.
 - `events/`: Contains event handler files for presence updates.
-- `monitoredData.json`: Stores presence change logs.
 - `config.json`: Stores bot configurations and user monitoring settings.
 - `.env` : enter your token
 
