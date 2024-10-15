@@ -1,0 +1,19 @@
+{
+  "name": "discord-kawaii-bot",
+  "version": "1.0.0",
+  "description": "Un bot Discord kawaii pour surveiller les présences des utilisateurs et envoyer des notifications.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "kda-sparkle",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.0.3",
+    "express": "^4.21.1"
+  },
+  "engines": {
+    "node": ">=16.6.0"
+  }
+}

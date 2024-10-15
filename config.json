@@ -1,0 +1,33 @@
+{
+  "prefix": "!",
+  "logChannelId": "1295536386002124932",
+  "notifyUserId": "131189350674202625",
+  "usersToMonitor": [
+    "131189350674202625",
+    "1143470064859877458",
+    "1224839060502347818"
+  ],
+  "streamURL": "https://www.twitch.tv/kda_delta",
+  "monitoringPaused": false,
+  "monitoringStopped": false,
+  "userConnections": {
+    "131189350674202625": [
+      {
+        "status": "dnd",
+        "timestamp": "2024-10-15T13:06:49.648Z"
+      },
+      {
+        "status": "online",
+        "timestamp": "2024-10-15T13:06:46.512Z"
+      },
+      {
+        "status": "dnd",
+        "timestamp": "2024-10-15T13:06:40.812Z"
+      },
+      {
+        "status": "online",
+        "timestamp": "2024-10-15T13:06:38.823Z"
+      }
+    ]
+  }
+}
