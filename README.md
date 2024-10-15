@@ -4,6 +4,8 @@
 ![Discord.js](https://img.shields.io/badge/Discord.js-v13.7.0-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+(u see 4 commit but u create in private i juste share my bot with duppli my repo)
+
 ## Description
 
 This Discord bot monitors user presence updates in real-time using the `discord.js` library. It can log status changes for specified users and notify a specific channel or user via direct messages when changes occur.
