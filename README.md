@@ -4,7 +4,7 @@
 ![Discord.js](https://img.shields.io/badge/Discord.js-v13.7.0-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-(u see 4 commit but u create in private i juste share my bot with duppli my repo)
+(u see 4 commit but u create in private i juste share my bot with duppli my repo and you can ddm me if u need help)
 
 ## Description
 
